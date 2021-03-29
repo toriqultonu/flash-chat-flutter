@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503236581196",
+    "project_id": "chatwithme-780ee",
+    "storage_bucket": "chatwithme-780ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503236581196:android:1f560e895e12cf97d0a1e9",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503236581196-id3nst0alrfqne9igo1ae5k7tvuqdta0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_h77HGSz6T4x-D30PG0UwZc4aFfrtFEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503236581196-id3nst0alrfqne9igo1ae5k7tvuqdta0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
